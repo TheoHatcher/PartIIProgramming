@@ -7,7 +7,7 @@ are all of the same element, are sp2 hybridized, and that adjacent atoms are all
 from each other.
 
 ## Run Instructions
-N/A - Simply run the file and complete required user input fields.
+Simply run the file and complete required user input fields.
 
 ## Results
 Summary of possible outputs from Exercise1.py.
